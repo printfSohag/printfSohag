@@ -13,8 +13,9 @@
   <a href="https://linkedin.com/in/printfSohag">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/prinfsohag">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <a href="https://x.com/printfsohag">
+    <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
   </a>
   <a href="https://sohag.dev/">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
